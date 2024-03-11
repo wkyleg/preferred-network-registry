@@ -1,0 +1,5 @@
+{
+    "prettier.configPath": ".prettierrc",
+    "reactSnippets.settings.prettierEnabled": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

@@ -1,2 +1,2 @@
-import preferredNetworkRegistry from "./PreferedNetworkRegistry";
-export default preferredNetworkRegistry;
+import preferredNetworkRegistry from './PreferedNetworkRegistry'
+export default preferredNetworkRegistry
